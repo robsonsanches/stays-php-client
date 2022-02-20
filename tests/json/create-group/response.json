@@ -1,0 +1,12 @@
+{
+    "_id": "5eb2ae76e4dd9757b91fffb5",
+    "status": "active",
+    "internalName": "test group 1",
+    "types": [
+        "system"
+    ],
+    "_mstitle": {
+        "en_US": "Test Group 1"
+    },
+    "listingIds": []
+}

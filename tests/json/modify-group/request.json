@@ -1,0 +1,14 @@
+{
+    "internalName": "test group 1-1",
+    "_mstitle": {
+        "en_US": "Test Group 1-1",
+        "pt_BR": "Grupo de teste 1-1"
+    },
+    "types": [
+        "system",
+        "highlight"
+    ],
+    "listingIds": [
+        "515328ab80beb0e416000008"
+    ]
+}

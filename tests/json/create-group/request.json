@@ -1,0 +1,10 @@
+{
+    "status": "active",
+    "internalName": "test group 1",
+    "types": [
+        "system"
+    ],
+    "_mstitle": {
+        "en_US": "Test Group 1"
+    }
+}
